@@ -1,4 +1,3 @@
-layout_spectrum: 0.9927814861293882
 typography_spectrum: 0.789219013415277
 color:
   brandStrength: 0.8211560947820544
@@ -11,4 +10,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: teste 002
+layout_spectrum: 0.9927814861293882
+name: TESTE 002
+title: TESTEERERE
